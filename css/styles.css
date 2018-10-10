@@ -1,0 +1,25 @@
+.divbg {
+  background: url(http://maps-portland.com/img/0/trimet-max-map-portland.jpg);
+  opacity: 0.3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+div.post {
+  color: red;
+  background-color: white;
+}
+
+p.bodytext {
+  text-align: left;
+  margin-left: 20px;
+
+}
+
+h1 {
+  font-size: 40px;
+}
