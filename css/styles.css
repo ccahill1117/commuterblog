@@ -9,11 +9,10 @@
   z-index: -1;
 }
 
-div.posts {
-  color: red;
+.posts {
   background-color: white;
   float: left;
-  width: 600px;
+  width: 75%;
 }
 
 p.bodytext {
